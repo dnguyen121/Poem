@@ -5,3 +5,4 @@ This is Jacob 4th merge to test the git commit --amend
 I'm trying to use git commit --amend to test it again
 This is so complicated but I like it
 This is the 7th commit and I'm trying to test git rebase now
+Collin doesn't understand that git is complicated
